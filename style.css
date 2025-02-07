@@ -5,5 +5,13 @@ html,body {
 }
 
 h1 {
-    
+    font-size: 50px;
+    color: green;
+}
+
+.name {
+    color: hotpink;
+    background-color: aquamarine;
+    border: 8px groove lightgray;
+
 }
