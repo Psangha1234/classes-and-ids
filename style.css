@@ -12,6 +12,14 @@ h1 {
 .name {
     color: hotpink;
     background-color: aquamarine;
-    border: 8px groove lightgray;
+    border:2px solid  black;
+   
 
+}
+
+h2.name{
+    color: chocolate;
+    background-color: chartreuse;
+    border: none;
+    
 }
